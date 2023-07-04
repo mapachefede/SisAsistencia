@@ -1,0 +1,107 @@
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\SisAsitencia.exe.config
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\SisAsitencia.exe
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\SisAsitencia.pdb
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.csproj.AssemblyReference.cache
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.csproj.SuggestedBindingRedirects.cache
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.Properties.Resources.resources
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.csproj.GenerateResource.cache
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.csproj.CoreCompileInputs.cache
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.exe
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.pdb
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.Form2.resources
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\EntityFramework.dll
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\EntityFramework.SqlServer.dll
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\System.Data.SQLite.dll
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\System.Data.SQLite.EF6.dll
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\System.Data.SQLite.Linq.dll
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\EntityFramework.xml
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\EntityFramework.SqlServer.xml
+E:\proyectosviasualstudio\SisAsitencia\bin\Debug\System.Data.SQLite.xml
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.csproj.CopyComplete
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.Form3.resources
+E:\proyectosviasualstudio\SisAsitencia\obj\Debug\SisAsitencia.Form1.resources
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\SisAsitencia.exe.config
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\SisAsitencia.exe
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\SisAsitencia.pdb
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\EntityFramework.dll
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\EntityFramework.SqlServer.dll
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\System.Data.SQLite.dll
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\System.Data.SQLite.EF6.dll
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\System.Data.SQLite.Linq.dll
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\EntityFramework.xml
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\EntityFramework.SqlServer.xml
+E:\proyectosviasualstudio\SisAsitencia - copia\bin\Debug\System.Data.SQLite.xml
+E:\proyectosviasualstudio\SisAsitencia - copia\obj\Debug\SisAsitencia.csproj.AssemblyReference.cache
+E:\proyectosviasualstudio\SisAsitencia - copia\obj\Debug\SisAsitencia.Form1.resources
+E:\proyectosviasualstudio\SisAsitencia - copia\obj\Debug\SisAsitencia.Form2.resources
+E:\proyectosviasualstudio\SisAsitencia - copia\obj\Debug\SisAsitencia.Form3.resources
+E:\proyectosviasualstudio\SisAsitencia - copia\obj\Debug\SisAsitencia.Properties.Resources.resources
+E:\proyectosviasualstudio\SisAsitencia - copia\obj\Debug\SisAsitencia.csproj.GenerateResource.cache
+E:\proyectosviasualstudio\SisAsitencia - copia\obj\Debug\SisAsitencia.csproj.CoreCompileInputs.cache
+E:\proyectosviasualstudio\SisAsitencia - copia\obj\Debug\SisAsitencia.csproj.CopyComplete
+E:\proyectosviasualstudio\SisAsitencia - copia\obj\Debug\SisAsitencia.exe
+E:\proyectosviasualstudio\SisAsitencia - copia\obj\Debug\SisAsitencia.pdb
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.csproj.AssemblyReference.cache
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.csproj.SuggestedBindingRedirects.cache
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.Form1.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.Form2.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.Form3.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.Properties.Resources.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.csproj.GenerateResource.cache
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.csproj.CoreCompileInputs.cache
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.exe
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.pdb
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\SisAsitencia.exe.config
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\SisAsitencia.exe
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\SisAsitencia.pdb
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\EntityFramework.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\EntityFramework.SqlServer.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\System.Data.SQLite.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\System.Data.SQLite.EF6.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\System.Data.SQLite.Linq.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\EntityFramework.xml
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\EntityFramework.SqlServer.xml
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\bin\Debug\System.Data.SQLite.xml
+E:\proyectosviasualstudio\SisAsitencia - copia - copia\obj\Debug\SisAsitencia.csproj.CopyComplete
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\obj\Debug\SisAsitencia.csproj.AssemblyReference.cache
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\obj\Debug\SisAsitencia.Form1.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\obj\Debug\SisAsitencia.Form2.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\obj\Debug\SisAsitencia.Form3.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\obj\Debug\SisAsitencia.Properties.Resources.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\obj\Debug\SisAsitencia.csproj.GenerateResource.cache
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\obj\Debug\SisAsitencia.csproj.CoreCompileInputs.cache
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\obj\Debug\SisAsitencia.exe
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\obj\Debug\SisAsitencia.pdb
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\SisAsitencia.exe.config
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\SisAsitencia.exe
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\SisAsitencia.pdb
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\EntityFramework.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\EntityFramework.SqlServer.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\System.Data.SQLite.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\System.Data.SQLite.EF6.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\System.Data.SQLite.Linq.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\EntityFramework.xml
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\EntityFramework.SqlServer.xml
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\bin\Debug\System.Data.SQLite.xml
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia\obj\Debug\SisAsitencia.csproj.CopyComplete
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\SisAsitencia.exe.config
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\SisAsitencia.exe
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\SisAsitencia.pdb
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\EntityFramework.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\EntityFramework.SqlServer.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\System.Data.SQLite.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\System.Data.SQLite.EF6.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\System.Data.SQLite.Linq.dll
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\EntityFramework.xml
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\EntityFramework.SqlServer.xml
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\bin\Debug\System.Data.SQLite.xml
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\obj\Debug\SisAsitencia.csproj.AssemblyReference.cache
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\obj\Debug\SisAsitencia.Form1.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\obj\Debug\SisAsitencia.Form2.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\obj\Debug\SisAsitencia.Form3.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\obj\Debug\SisAsitencia.Properties.Resources.resources
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\obj\Debug\SisAsitencia.csproj.GenerateResource.cache
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\obj\Debug\SisAsitencia.csproj.CoreCompileInputs.cache
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\obj\Debug\SisAsitencia.csproj.CopyComplete
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\obj\Debug\SisAsitencia.exe
+E:\proyectosviasualstudio\SisAsitencia - copia - copia - copia - copia\obj\Debug\SisAsitencia.pdb
